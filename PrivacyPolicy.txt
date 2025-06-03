@@ -1,0 +1,55 @@
+Privacy Policy
+Updated Date: May 20, 2025
+Effective Date: May 20, 2025
+Introduction
+MiJi is a product provided by DaYi Studio (hereinafter referred to as "we"). When you use our services, we may collect and use certain information related to you. This Privacy Policy explains how we collect, use, store, and share your information while offering access, updates, control, and protection mechanisms for your data.
+
+Important Notice: In accordance with China’s Personal Information Protection Law (PIPL), we only process the minimum required personal information necessary for functionality, and all data is processed locally on the user's device. No data is transmitted to any server or third party.
+
+By using or continuing to use our services, you agree to our collection, usage, storage, and sharing of your information as described in this Privacy Policy.
+
+If you have any questions regarding this policy, please contact us at cy_password@outlook.com.
+
+1. Data Collection and Usage
+1.1 Processing Principles
+In accordance with PIPL, we adhere to the principles of lawfulness, legitimacy, necessity, and integrity. We only collect the necessary information for product functionality, and all data is processed locally on your device. No data is transmitted over networks, shared externally, or stored on external servers.
+
+1.2 Specific Use Cases
+Credential Management: User-set passwords are encrypted and stored securely using the PBKDF2 algorithm within the device’s secure storage area.
+Biometric Authentication: Fingerprint/Face Recognition is handled via the device’s native biometric API. We do not receive, process, or store any raw biometric data.
+2. Data Security and Storage
+2.1 Storage Methods and Retention Period
+The app encrypts stored data using PBKDF2 combined with HMAC-SHA256. Encryption keys are secured via Android Keystore’s hardware-level encryption.
+Local data is stored indefinitely unless manually cleared by the user or upon app uninstallation. All stored data remains exclusively on the user’s device.
+2.2 Storage Permission Declaration
+The data export feature requires storage permission, which is only used for user-initiated local data export.
+2.3 Data Self-Destruction Mechanism
+To enhance data security, if a user enters the wrong password for three consecutive days (only resets upon a successful login), local data will be automatically erased. This process is irreversible. Users can enable or disable this feature at their discretion.
+3. User Rights and Responsibilities
+3.1 Your Rights (As Required by PIPL)
+You have the following rights regarding your personal information:
+
+Access, Copy, Modify, Delete: Users can manage their local data through the app’s settings.
+Withdraw Consent: Uninstalling the app is considered withdrawal of consent, and all stored local data will be automatically deleted.
+Complaints & Reports: Users can contact us at cy_password@outlook.com, or file a complaint with relevant authorities.
+3.2 Your Responsibilities
+Lost passwords cannot be recovered via third-party services.
+Physical exposure of the device may pose data security risks.
+Users are responsible for ensuring secure storage of exported data.
+4. Additional Terms
+4.1 Policy Updates
+Whenever this policy is updated, notifications will be pushed within the app or listed in the update log. If you continue using the service after an update, it will be considered as acceptance of the revised policy.
+4.2 Protection of Minors
+In compliance with PIPL, users under 14 years of age must obtain guardian consent before using this app. We do not actively identify users' ages, so guardians are responsible for supervising usage.
+4.3 Disclaimer
+We have implemented reasonable technical measures to secure data; however, we are not liable for risks resulting from:
+
+Users failing to follow security guidelines;
+System vulnerabilities or unforeseen circumstances.
+5. Compliance with PIPL (China’s Personal Information Protection Law)
+We strictly comply with PIPL and make the following commitments:
+Minimum Necessary Principle: We only process data required for password management functionality.
+Explicit Consent: If processing sensitive data (such as biometric information), we will request separate and explicit user consent.
+Local Data Storage: All data remains on your device and will not be transferred internationally.
+6. Contact Us
+Developer Contact: cy_password@outlook.com
